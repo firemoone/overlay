@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'parseicons';
-  src: url('fonts/parseicons.eot?vu0a9y');
-  src: url('fonts/parseicons.eot?vu0a9y#iefix') format('embedded-opentype'),
-    url('fonts/parseicons.ttf?vu0a9y') format('truetype'),
-    url('fonts/parseicons.woff?vu0a9y') format('woff'),
-    url('fonts/parseicons.svg?vu0a9y#parseicons') format('svg');
+  src: url('fonts/parseicons.eot?24b');
+  src: url('fonts/parseicons.eot?24b#iefix') format('embedded-opentype'),
+    url('fonts/parseicons.ttf?24b') format('truetype'),
+    url('fonts/parseicons.woff?24b') format('woff'),
+    url('fonts/parseicons.svg?24b#parseicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -34,11 +34,11 @@
   content: "\e91f";
 }
 
-.icon-vpr:before {
+.icon-pct:before {
   content: "\e920";
 }
 
-.icon-pct:before {
+.icon-vpr:before {
   content: "\e921";
 }
 
